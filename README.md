@@ -21,4 +21,4 @@
 
 ## Bio ⭐
 
-#### "Estudante de Análise e Desenvolvimento de Sistemas no 3º período, apaixonado por programação e encantado com a jornada de aprendizado neste curso incrível. 💻✨"
+#### "Estudante de Análise e Desenvolvimento de Sistemas no 5º período, apaixonado por programação e encantado com a jornada de aprendizado neste curso incrível. 💻✨"
