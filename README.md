@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-carlos-de-souza-607a23268/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
 
-![Samuel Carlos de Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-SouzaZz&show_icons=true&theme=dracula)
+![Samuel Carlos de Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-SouzaZz&show_icons=true&theme=dracula&cache_seconds=86400)
 
 ---
 
